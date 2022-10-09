@@ -1,0 +1,10 @@
+JavaScript Variables
+  1) Variable
+      - var
+      - let
+      - const 
+  2) Mathematical Assignment Operators 
+  3) Increment and Decrement Operator
+  4) String Concatenation with Variables
+  5) String Interpolation
+  7) typeof operator
